@@ -5,7 +5,7 @@ date: 2020-01-10T14:28:10.168Z
 description: >-
   I am so excited to be here in Sweden, even though, I miss my country a lot,
   especially my family.
-featuredpost: false
+featuredpost: true
 featuredimage: /img/Kosovo_ST-650x260.png
 tags:
   - 'https://en.wikipedia.org/wiki/Kosovo'
