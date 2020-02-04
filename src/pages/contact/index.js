@@ -19,6 +19,7 @@ export default class Index extends React.Component {
   }
 
   handleSubmit = e => {
+    debugger;
     e.preventDefault()
     const form = e.target
     fetch('/', {
@@ -79,7 +80,6 @@ export default class Index extends React.Component {
                     <input
                         className="input"
                         type={'file'}
-                        multiple={true}
                         name={'file'}
                         onChange={this.handleChange}
                         id={'file'}
